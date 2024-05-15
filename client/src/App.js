@@ -36,7 +36,6 @@ function App() {
       {" "}
       <GetUsers />
       {/* <Form /> */}
-      //Hello
     </ApolloProvider>
   );
 }
